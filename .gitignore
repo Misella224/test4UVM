@@ -1,0 +1,11 @@
+# QuestaSim / ModelSim 生成的库和临时文件
+work/
+transcript
+vsim.wlf
+*.vstf
+*.wlf
+*.mpf
+
+# 系统文件和编辑器配置
+Thumbs.db
+.vscode/
